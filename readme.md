@@ -3,4 +3,4 @@
 ## Alt Bilgi
 patika html dersleri
 ödev-1
-[lorem ipsum](www.patika.dev)
+[lorem ipsum](http://www.patika.dev)
